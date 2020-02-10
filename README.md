@@ -1,1 +1,2 @@
 # test5
+LINE 2 MERGE CONFLICT
