@@ -1,2 +1,2 @@
 # test5
-LINE 2 MERGE CONFLICT
+This will resolve the merge conflict
